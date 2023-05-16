@@ -3,7 +3,6 @@
 ## Description
 
 GitHub:
-
 This is a basic CMS-style Tech blog. You are presented with a homepage that shows all the current posts. A nav bar at the top gives you the option of going to the homepage, dashboard or login. 
 
 On the login page you are given the ability to login with your username and password if you already have one or signup a new user. 
@@ -22,10 +21,6 @@ The Login option switches to a Logout after sign in, and the page will auto logo
 
 ## Installation
 No installation is needed as the app is deployed on heroku
-
-
-## Usage
-App can be viewed at https://sleepy-thicket-80653.herokuapp.com/ 
 
 
 ## Technologies
