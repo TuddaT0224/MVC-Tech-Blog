@@ -2,7 +2,7 @@
 
 ## Description
 
-GitHub:https://github.com/TuddaT0224/MVC-Tech-Blog#readme
+GitHub:
 
 This is a basic CMS-style Tech blog. You are presented with a homepage that shows all the current posts. A nav bar at the top gives you the option of going to the homepage, dashboard or login. 
 
